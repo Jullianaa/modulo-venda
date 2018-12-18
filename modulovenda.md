@@ -6,7 +6,7 @@
 
 [**Informações gerais e normativas sobre o Siscoserv**](#_1fob9te)
 
-[**1. Introdução**](#_1o97atn)
+1. [Introdução](#1-introdução)  
 
 [**2. Base Legal do Siscoserv**](#_488uthg)
 
@@ -18,7 +18,7 @@
 
 [4.1.1. Prazo para o RVS](#_21od6so)
 
-[4.2. Registro de Faturamento (RF)](#_gtnh0h)
+4.2. [Registro de Faturamento (RF)](#42-Registro-de-Faturamento-(RF)) 
 
 [4.2.1. Prazos para o RF](#_30tazoa)
 
@@ -173,7 +173,7 @@
 
 # []{#_1fob9te .anchor}**Informações gerais e normativas sobre o Siscoserv
 
-**1. Introdução**
+# 1. Introdução
 
 O Sistema Integrado de Comércio Exterior de Serviços,
 [[Intangíveis]{.underline}](#haapch) e [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
@@ -266,7 +266,7 @@ data de início da prestação de serviço, da comercialização de intangível 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png){
 height="3.532638888888889in"}
 
-**4.2. Registro de Faturamento (RF)**
+4.2. Registro de Faturamento (RF)
 
 O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [[valor faturado]{.underline}](#2szc72q) (valor parcial ou total do contrato,
 expresso na moeda informada no RVS), o [[valor mantido no exterior]{.underline}](#3s49zyc), bem como outros elementos pertinentes.
@@ -277,6 +277,8 @@ Neste caso, o número da nota fiscal será repetido em cada RF.
 []{#_49x2ik5 .anchor}
 
 **4.2.1. Prazos para o RF**
+
+
 
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
@@ -451,7 +453,12 @@ Comércio Transfronteiriço]{.underline}](#37m2jsg), [[Modo 2 -- Consumo no Bras
 (B), e contra esta fatura a prestação de serviço. A empresa (A)
 subcontrata empresa (C), domiciliada no exterior, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B).
 Empresa (A) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv, no modo de prestação em que o serviço for prestado por (C)
-([[Modo 1 -- Comércio Transfronteiriço]{.underline}](#37m2jsg), [[Modo 2
+
+[Modo 1 -- Comércio Transfronteiriço](#Modo-1-Transfronteiriço)
+
+
+
+, [[Modo 2
 -- Consumo no Exterior]{.underline}](#1mrcu09) ou [[Modo 4 -- Movimento Temporário de Pessoas Físicas]{.underline}](#111kx3o)). A empresa (A)
 não deve proceder aos registros no Módulo Venda do Siscoserv quanto à
 sua relação contratual com (B), pois ambas são domiciliadas no Brasil.
@@ -1691,7 +1698,7 @@ height="4.179166666666666in"
 
 O usuário deve selecionar item na lista **Modo de Prestação**, dentre as opções:
 
-Modo 1 -- Transfronteiriço
+#  Modo 1 -- Transfronteiriço
 
 Modo 2 -- Consumo no Brasil
 
